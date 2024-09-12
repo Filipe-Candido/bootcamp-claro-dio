@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dio-desafio-bootcamp-poo-java/desafio-dio-POO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dio-desafio-conta-banco/banco-desafio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dio-moodelando-iphone-com-uml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dio-smart-tv" vcs="Git" />
+  </component>
+</project>
