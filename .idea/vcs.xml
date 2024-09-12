@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dio-desafio-bootcamp-poo-java/desafio-dio-POO" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dio-desafio-conta-banco/banco-desafio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dio-moodelando-iphone-com-uml" vcs="Git" />
