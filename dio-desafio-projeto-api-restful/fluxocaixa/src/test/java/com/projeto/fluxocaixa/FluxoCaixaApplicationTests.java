@@ -1,10 +1,10 @@
-package com.projeto.fluxocaixa;
+package com.projeto.bootcamp_claro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FluxoCaixaApplicationTests {
+class BootcampClaroApiRestfulApplicationTests {
 
 	@Test
 	void contextLoads() {

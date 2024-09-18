@@ -1,13 +1,13 @@
-package com.projeto.fluxocaixa;
+package com.projeto.bootcamp_claro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FluxoCaixaApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FluxoCaixaApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
