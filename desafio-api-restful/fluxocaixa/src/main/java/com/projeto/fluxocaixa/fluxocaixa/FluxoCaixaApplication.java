@@ -1,4 +1,4 @@
-package com.projeto.fluxocaixa;
+package com.projeto.fluxocaixa.fluxocaixa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
