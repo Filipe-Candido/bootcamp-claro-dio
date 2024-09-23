@@ -1,18 +1,7 @@
-## Getting Started
+# Contador
+Este projeto em Java implementa um contador simples que solicita ao usuário dois parâmetros inteiros e exibe todos os números entre eles. O código também inclui uma validação para garantir que o segundo parâmetro seja maior que o primeiro.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Funcionalidades
+Solicita ao usuário dois parâmetros inteiros.
+Exibe todos os números entre o primeiro e o segundo parâmetro (inclusive).
+Lança uma exceção personalizada se o segundo parâmetro não for maior que o primeiro.
